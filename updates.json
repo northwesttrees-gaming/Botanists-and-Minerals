@@ -1,0 +1,10 @@
+{
+  "homepage": "https://mcreator.net/examplemod",
+  "1.21.1": {
+    "1.0.0": "\nADDED:\n\n- 10 new crops.\n- 10 new dust items.\n- 10 new compacted dust blocks.\n- 10 new raw crop products.\n- Ores can drop seeds rarely.\n- Crops grow on farmland.\n- Crops require light to grow.\n- Bees with nectar can pollenate.\n- Water can harvest crops.\n- Production blocks.\n- Production can be automated with redstone.\n- Tags are used when ever possible.\n- Designed with balance in mind."
+  },
+  "promos": {
+    "1.21.1-latest": "1.0.0",
+    "1.21.1-recommended": "1.0.0"
+  }
+}
