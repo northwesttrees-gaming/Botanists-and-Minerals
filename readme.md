@@ -1,4 +1,5 @@
-<img width="1500" height="1000" alt="bam" src="https://github.com/user-attachments/assets/6b138b28-3aff-41f1-8228-d42ad9768d05" />
+<img width="512" height="200" alt="logo" src="https://github.com/user-attachments/assets/6f758209-682d-4af0-b6b9-21002b044794" />
+
 
 # Botanists and Minerals
 This MCreator mod adds several new crops to the game that can produce raw products. These reaw products can be refined using a number of custom crafting stations. Each crop is for a specific mineral resource.
