@@ -1,11 +1,11 @@
 <img width="1024" height="400" alt="logo" src="https://github.com/user-attachments/assets/5582271d-2f29-47c4-a2b0-9dd452304164" />
 
-# Botanists and Minerals
+# 🌾 Botanists and Minerals
 Botanists and Minerals is an MCreator mod that adds a collection of crops capable of producing renewable mineral resources. Each crop corresponds to a specific Minecraft resource and produces a raw crop product when fully grown.  
   
 Raw crops must go through several stages of processing using custom crafting stations before they can be converted into their corresponding Minecraft resources.  
 
-## Balance Comes First
+## ⚖️ Balance Comes First
 The mod includes several mechanics designed to keep Ore Crops balanced and prevent large quantities of resources from being obtained too easily.
 
 - Seed drop rates can be configured using game rules.
@@ -15,7 +15,7 @@ The mod includes several mechanics designed to keep Ore Crops balanced and preve
 - Harvesting a crop only returns one seed, preventing farms from being rapidly expanded without obtaining additional seeds from their original resource.
 - Wandering Trader seed trades require both Emeralds and blocks of the corresponding resource, providing an alternative method of obtaining seeds while maintaining a resource cost.
 
-## Features
+## ⭐ Features
 The mod includes several farming, progression, processing, and automation mechanics:
 
 - Rare seeds can be obtained by mining ores or, in some cases, smelting resources.
@@ -32,7 +32,7 @@ The mod includes several farming, progression, processing, and automation mechan
 - Seeds for rarer resources, such as Diamond and Ancient Debris, are naturally harder to obtain due to their lower ore generation rates.
 - The mod uses tags where possible to improve compatibility with other mods.
 
-## Crop Types
+## 🌽 Crop Types
 The mod currently includes 10 Ore Crops:
 
 - Carbon Lily – Coal
@@ -46,7 +46,7 @@ The mod currently includes 10 Ore Crops:
 - Quash – Quartz
 - Debage – Ancient Debris
 
-## Machines
+## ⚙️ Machines
 Raw crop products are processed through three crafting stations in the following order:
 
 1. Grindstone – Available in Andesite, Diorite, Granite, and Stone variants.
@@ -57,5 +57,5 @@ The complete processing chain is:
   
 Raw Crop → Crop Dust → Compacted Crop Dust → Minecraft Resource
 
-## Compacted Blocks
+## 💪 Compacted Blocks
 Compacted Blocks provide additional decorative building options. Their textures can be used for floors, walls, and other decorative structures.
