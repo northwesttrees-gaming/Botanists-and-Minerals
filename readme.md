@@ -65,4 +65,4 @@ This mod was made without custom code, or plugins, strictly out of the box MCrea
 
 ## 🔗 Official Mod Sites
 - [Wiki](https://github.com/northwesttrees-gaming/Botanists-and-Minerals/wiki) - Documentation for the mod.
-- MCreator - Official Mod Page
+- [MCreator](https://mcreator.net/modification/124978/botanists-and-minerals) - Official Mod Page
