@@ -64,5 +64,6 @@ Compacted Blocks provide additional decorative building options. Their textures 
 This mod was made without custom code, or plugins, strictly out of the box MCreator features.
 
 ## 🔗 Official Mod Sites
+- [Discord](https://discord.gg/fUbbJdNU9y)
 - [Wiki](https://github.com/northwesttrees-gaming/Botanists-and-Minerals/wiki) - Documentation for the mod.
 - [MCreator](https://mcreator.net/modification/124978/botanists-and-minerals) - Official Mod Page
