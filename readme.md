@@ -59,3 +59,9 @@ Raw Crop → Crop Dust → Compacted Crop Dust → Minecraft Resource
 
 ## 💪 Compacted Blocks
 Compacted Blocks provide additional decorative building options. Their textures can be used for floors, walls, and other decorative structures.
+
+## 🧩 Made With Vanilla MCreator
+This mod was made without custom code, or plugins, strictly out of the box MCreator features.
+
+## 🔗 Official Mod Sites
+- GitHub - For reporting issues, and official mod wiki.
