@@ -67,3 +67,4 @@ This mod was made without custom code, or plugins, strictly out of the box MCrea
 - [Discord](https://discord.gg/fUbbJdNU9y) - My Discord community.
 - [Wiki](https://github.com/northwesttrees-gaming/Botanists-and-Minerals/wiki) - Documentation for the mod.
 - [MCreator](https://mcreator.net/modification/124978/botanists-and-minerals) - Official MCreator mod page.
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botanists-and-minerals) - Official CurseForge mod page.
