@@ -6,10 +6,15 @@
   "1.21.8": {
     "1.1.0": "\nUPDATED:\n\n- Ported to NeoForge 1.21.8"
   },
+  "26.1.2": {
+    "1.2.0": "\nUPDATED:\n\n- Ported to NeoForge 26.1.2"
+  },
   "promos": {
     "1.21.1-latest": "1.0.0",
     "1.21.1-recommended": "1.0.0",
     "1.21.8-latest": "1.1.0",
-    "1.21.8-recommended": "1.1.0"
+    "1.21.8-recommended": "1.1.0",
+    "26.1.2-latest": "1.2.0",
+    "26.1.2-recommended": "1.2.0"
   }
 }
