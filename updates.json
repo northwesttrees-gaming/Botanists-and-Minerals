@@ -1,7 +1,8 @@
 {
   "homepage": "https://github.com/northwesttrees-gaming/Botanists-and-Minerals",
   "1.21.1": {
-    "1.0.0": "\nADDED:\n\n- 10 new crops.\n- 10 new dust items.\n- 10 new compacted dust blocks.\n- 10 new raw crop products.\n- Ores can drop seeds rarely.\n- Crops grow on farmland.\n- Crops require light to grow.\n- Bees with nectar can pollenate.\n- Water can harvest crops.\n- Production blocks.\n- Production can be automated with redstone.\n- Tags are used when ever possible.\n- Designed with balance in mind."
+    "1.0.0": "\nADDED:\n\n- 10 new crops.\n- 10 new dust items.\n- 10 new compacted dust blocks.\n- 10 new raw crop products.\n- Ores can drop seeds rarely.\n- Crops grow on farmland.\n- Crops require light to grow.\n- Bees with nectar can pollenate.\n- Water can harvest crops.\n- Production blocks.\n- Production can be automated with redstone.\n- Tags are used when ever possible.\n- Designed with balance in mind.",
+    "1.3.0": "\nADDED:\n\n- Added game rule to bypass research.\n\nFIXED:\n\n- Fixed some crops not dropping.\n- Fixed block interaction while holding seeds.\n- Fixed research bypass issue when placing blocks on side faces.\n- Fixed GUI progress bar sprites."
   },
   "1.21.8": {
     "1.1.0": "\nUPDATED:\n\n- Ported to NeoForge 1.21.8"
